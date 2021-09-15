@@ -1,0 +1,52 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	width: 550px;
+	margin: 100px auto;
+    height: 550px;
+}
+ body{
+ 	background: url(../img/pexels-daria-shevtsova-1580625.jpg) no-repeat;
+ 	background-size: 2000px auto;
+ }
+ 
+ .login-section img{
+ 	width: 200px;
+ 	margin: 0px auto;
+ 	display: block;
+
+ }
+ .login-section h2{
+ 	text-align: center;
+ 	color: ghostwhite;
+ 	margin: 10px 0px;
+
+ }
+ .form-control{
+ 	margin-bottom: 10px;
+ 	width: 500px;
+ 	border: 1px;
+ 	padding: 10px;
+ 	backgroung color: whitesmoke;
+ 	color: red;
+
+ }
+ .submit-btn{
+ 	border: 1px;
+ 	background: greenyellow;
+ 	color: white;
+ 	padding: 10px 10px;
+ 	display: block;
+ 	margin: 0px auto;
+ 	cursor: pointer;
+
+ }
+ .submit-btn{
+ 	box-shadow: 1px 2px 10px white;
+ }
+ 
+
+ 
